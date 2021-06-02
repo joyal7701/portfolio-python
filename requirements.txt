@@ -41,7 +41,7 @@ sqlparse==0.3.1
 toml==0.10.0
 tox==3.14.6
 translate==3.5.0
-urllib3==1.25.8
+urllib3==1.26.5
 virtualenv==20.0.13
 virtualenvwrapper-win==1.2.6
 Werkzeug==0.16.0
